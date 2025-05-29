@@ -1,6 +1,6 @@
 ﻿namespace AssassinTextAdventureUI.Character;
 
-public class Assassin : ICharacter
+public class Enemy : ICharacter
 {
     public string Name { get; set; }
     public int AttackDamage { get; set; }
