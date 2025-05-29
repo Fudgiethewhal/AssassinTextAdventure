@@ -17,7 +17,7 @@ public static class Combat
 
             if (enemy.Health <= 0)
             {
-                UserInteraction.GameDialogue($"{enemy.Name} has been defeated");
+                UserInteraction.GameDialogue($"{enemy.Name} has been defeated!");
                     Thread.Sleep(5000);
                     break; 
             }
