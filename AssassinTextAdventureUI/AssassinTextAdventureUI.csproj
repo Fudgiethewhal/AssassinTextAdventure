@@ -8,7 +8,7 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <Folder Include="Character\" />
+      <Folder Include="GameFunctions\" />
     </ItemGroup>
 
 </Project>
