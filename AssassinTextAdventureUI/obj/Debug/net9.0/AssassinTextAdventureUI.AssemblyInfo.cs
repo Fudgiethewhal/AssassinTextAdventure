@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AssassinTextAdventureUI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bf9244c4de598a35d79bf96203cf7387a1754652")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7ab7f4df7053244248149b2026b441b398947d96")]
 [assembly: System.Reflection.AssemblyProductAttribute("AssassinTextAdventureUI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AssassinTextAdventureUI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

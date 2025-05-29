@@ -45,7 +45,7 @@ public class UserInteraction
             while (!int.TryParse(playerChoice, out choiceIndex))
             {
                 GameDialogue("I don't understand your choice. Please choose a valid option.");
-                GetUserInput(questionPrompt);
+                playerChoice= GetUserInput(questionPrompt);
             }
 
             if (choiceIndex == questions.Length)
@@ -59,7 +59,7 @@ public class UserInteraction
             }
             else
             {
-                {GameDialogue("I don't understand your choice. Please choose a valid option.");}
+                GameDialogue("I don't understand your choice. Please choose a valid option.");
             }
         }
     }

@@ -1,0 +1,15 @@
+C:\Users\15756\repos\AssassinTextAdventure\AssassinTextAdventureUI\bin\Debug\net9.0\AssassinTextAdventureUI.exe
+C:\Users\15756\repos\AssassinTextAdventure\AssassinTextAdventureUI\bin\Debug\net9.0\AssassinTextAdventureUI.deps.json
+C:\Users\15756\repos\AssassinTextAdventure\AssassinTextAdventureUI\bin\Debug\net9.0\AssassinTextAdventureUI.runtimeconfig.json
+C:\Users\15756\repos\AssassinTextAdventure\AssassinTextAdventureUI\bin\Debug\net9.0\AssassinTextAdventureUI.dll
+C:\Users\15756\repos\AssassinTextAdventure\AssassinTextAdventureUI\bin\Debug\net9.0\AssassinTextAdventureUI.pdb
+C:\Users\15756\repos\AssassinTextAdventure\AssassinTextAdventureUI\obj\Debug\net9.0\AssassinTextAdventureUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\15756\repos\AssassinTextAdventure\AssassinTextAdventureUI\obj\Debug\net9.0\AssassinTextAdventureUI.AssemblyInfoInputs.cache
+C:\Users\15756\repos\AssassinTextAdventure\AssassinTextAdventureUI\obj\Debug\net9.0\AssassinTextAdventureUI.AssemblyInfo.cs
+C:\Users\15756\repos\AssassinTextAdventure\AssassinTextAdventureUI\obj\Debug\net9.0\AssassinTextAdventureUI.csproj.CoreCompileInputs.cache
+C:\Users\15756\repos\AssassinTextAdventure\AssassinTextAdventureUI\obj\Debug\net9.0\AssassinTextAdventureUI.sourcelink.json
+C:\Users\15756\repos\AssassinTextAdventure\AssassinTextAdventureUI\obj\Debug\net9.0\AssassinTextAdventureUI.dll
+C:\Users\15756\repos\AssassinTextAdventure\AssassinTextAdventureUI\obj\Debug\net9.0\refint\AssassinTextAdventureUI.dll
+C:\Users\15756\repos\AssassinTextAdventure\AssassinTextAdventureUI\obj\Debug\net9.0\AssassinTextAdventureUI.pdb
+C:\Users\15756\repos\AssassinTextAdventure\AssassinTextAdventureUI\obj\Debug\net9.0\AssassinTextAdventureUI.genruntimeconfig.cache
+C:\Users\15756\repos\AssassinTextAdventure\AssassinTextAdventureUI\obj\Debug\net9.0\ref\AssassinTextAdventureUI.dll
