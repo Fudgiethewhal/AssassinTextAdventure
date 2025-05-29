@@ -42,7 +42,7 @@ public class UserInteraction
             playerChoice = GetUserInput(questionPrompt);
             int choiceIndex;
 
-            while (!int.TryParse(playerChoice, out choiceIndex) && choiceIndex > 0 && choiceIndex)
+            while (!int.TryParse(playerChoice, out choiceIndex))
             {
                 GameDialogue("I don't understand your choice. Please choose a valid option.");
                 GetUserInput(questionPrompt);
